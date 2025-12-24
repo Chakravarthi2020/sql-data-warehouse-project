@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-End-to-end SQL Data Warehouse implementation designed for analytics, reporting, and business intelligence.
+Building a Modern End-to-end SQL Data Warehouse implementation designed for analytics, reporting, and business intelligence.
